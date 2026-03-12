@@ -259,4 +259,3 @@ For issues and questions, please create an issue in the repository.
 
 ---
 
-**Built for ML Engineers** | *Demonstrating ML model serving, API deployment, and audio processing*
